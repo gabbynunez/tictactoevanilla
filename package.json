@@ -1,0 +1,15 @@
+{
+  "name": "tictactoevanilla",
+  "version": "1.0.0",
+  "description": "simple game using vanilla Javascript",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
